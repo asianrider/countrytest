@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "901649555428",
+    "firebase_url": "https://countries-45928.firebaseio.com",
+    "project_id": "countries-45928",
+    "storage_bucket": "countries-45928.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901649555428:android:90127826f88e10a8",
+        "android_client_info": {
+          "package_name": "com.overlandaventure.countrytest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901649555428-qgifha2ts524shbk870ks1n50gjt11ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4UYYDmgwSbpyhJF8Rsytt5OwwQYDt2wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901649555428-qgifha2ts524shbk870ks1n50gjt11ae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
